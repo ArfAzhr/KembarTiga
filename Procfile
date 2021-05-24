@@ -1,1 +1,1 @@
-web: java -html Home.html
+web: Home.html
