@@ -1,1 +1,1 @@
-web: Home.html
+web: target/Home.html
