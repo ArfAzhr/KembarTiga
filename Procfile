@@ -1,1 +1,1 @@
-web: target/Home.html
+web: java -jar target/kembartiga-2.3.0.RELEASE.jar
