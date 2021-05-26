@@ -1,1 +1,1 @@
-web: java -jar target/kembartiga-2.3.0.RELEASE.jar
+web: java -jar target/executable-jar-archetype-1.0.jar
