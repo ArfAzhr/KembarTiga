@@ -1,1 +1,1 @@
-web: login.html
+web: java -jar target/executable-jar-archetype-1.0.jar
